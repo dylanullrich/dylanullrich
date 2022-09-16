@@ -1,7 +1,7 @@
 ![Dylan Ullrich - GitHub Banner](./img/github-banner.png)
 
-<div align="center">
+<a align="center" href="https://www.linkedin.com/in/dsullrich">
 
-[![LinkedIn Logo](./img/linkedin.svg)](https://www.linkedin.com/in/dsullrich)
+![LinkedIn Logo](./img/linkedin.svg)
 
-</div>
+</a>
