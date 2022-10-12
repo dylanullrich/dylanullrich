@@ -1,3 +1,5 @@
+## Hey there! :wave:
+
 ![Dylan Ullrich - GitHub Banner](./images/github-banner.png)
 
 <table align="center" border="0">
