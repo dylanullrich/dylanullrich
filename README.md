@@ -1,4 +1,4 @@
-## Hey there! :wave:
+### Hi there! :wave:
 
 ![Dylan Ullrich - GitHub Banner](./images/github-banner.png)
 
