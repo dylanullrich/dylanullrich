@@ -1,18 +1,18 @@
-# Hi there! :wave:
+## Hi there! :wave:
 
-## About
+### About
 
 - Dylan.
 - Full Stack Developer.
 
-## Languages & Tools
+### Languages & Tools
 
 <div>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-### Build
+#### Build
 
 <div>
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -47,7 +47,7 @@
   <img align="center" alt="insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
 </div>
 
-### Deploy
+#### Deploy
 <div>
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -55,7 +55,7 @@
   <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=whitee" />
 </div>
 
-## Stats
+### Stats
 
 <div>
   <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=dylanullrich&show_icons=true&theme=radical&count_private=true" />
