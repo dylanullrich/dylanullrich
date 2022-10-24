@@ -50,7 +50,7 @@
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-### Stats
+<!-- STATS -->
 
 <div>
   <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=dylanullrich&show_icons=true&theme=radical&count_private=true" />
