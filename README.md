@@ -12,8 +12,6 @@
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-<br>
-
 ### Build
 
 <div>
@@ -49,8 +47,6 @@
   <img align="center" alt="insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
 </div>
 
-<br>
-
 ### Deploy
 <div>
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -59,14 +55,13 @@
   <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=whitee" />
 </div>
 
-<br>
-
 ## Stats
 
 <div>
   <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=dylanullrich&show_icons=true&theme=radical&count_private=true" />
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanullrich&theme=radical&layout" />
 </div>
+
 ## Contact
 
 <a align="center" href="mailto:me@dylanullrich.com" target="_blank" rel="noopener noreferrer"><img height="32" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail logo"></a>
