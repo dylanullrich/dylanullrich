@@ -46,7 +46,7 @@
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img align="center" alt="netlify" src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-0000000?style=for-the-badge&logo=heroku&logoColor=whitee" />
+  <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white" />
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
