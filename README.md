@@ -51,12 +51,12 @@
 </div>
 
 <!-- STATS -->
-<br>
+<!-- <br>
 
 <div>
   <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=dylanullrich&show_icons=true&theme=radical&count_private=true" />
   <img align="center" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanullrich&theme=radical&layout" />
-</div>
+</div> -->
 
 ## Contact
 
